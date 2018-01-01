@@ -12,3 +12,9 @@ function callMe() {
   function crazy (){
     console.log ("hey!!!")
   }
+
+var name = "Kristin"
+var name = function sayMyName(){}
+ function sayMyName(){
+   console.log("Kristen")
+ }
