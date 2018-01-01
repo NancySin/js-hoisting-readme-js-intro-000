@@ -13,8 +13,8 @@ function callMe() {
     console.log ("hey!!!")
   }
 
-var name = "Kristin"
-var name = function sayMyName(){}
- function sayMyName(){
+function sayMyName(){}
+ var name = "Kristin"
+   function sayMyName(){
    console.log(name)
  }
