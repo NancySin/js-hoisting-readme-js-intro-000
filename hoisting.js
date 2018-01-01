@@ -8,7 +8,7 @@ function callMe() {
   var lyric = "maybe";
 
 }
- var thisIsCrazy = function crazy()
+ var thisIsCrazy = function crazy(){}
   function crazy (){
     console.log ("hey!!!")
   }
