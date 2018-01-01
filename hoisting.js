@@ -16,5 +16,5 @@ function callMe() {
 var name = "Kristin"
 var name = function sayMyName(){}
  function sayMyName(){
-   console.log("Kristen")
+   console.log(name)
  }
